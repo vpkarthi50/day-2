@@ -1,0 +1,26 @@
+.ht{
+    text-align: center;
+}
+.headline{
+    float: right;
+    height: 100%;
+    width:60%;
+}
+.imw1{
+    height: 100%;
+    width: 50%;
+}
+.image{
+    height:250px;
+    width:250px;
+}
+.imw2{
+    float:right
+    height: 100%;
+    width: 50%;
+}
+.image2{
+    float:right;
+    height: 250px;
+    width: 250px;
+}
